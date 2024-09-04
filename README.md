@@ -12,7 +12,7 @@
 </p>
 <hr>
 <img align="right" height="205" alt="Coding" width="350" src="./2778468.jpg" /> 
-<h5 align="justify">I'm an enthusiastic Full Stack Web Developer with a passion for building seamless and efficient web applications. I have a strong foundation in both front-end and back-end technologies, and I'm always eager to learn and adapt to new trends in the tech world. My journey so far has equipped me with the skills to create responsive, user-friendly, and dynamic web solutions.</h5>
+<h5 align="justify">An enthusiastic Full Stack Web Developer with a passion for building seamless and efficient web applications. Have a strong foundation in both front-end and back-end technologies, and always eager to learn and adapt to new trends in the tech world. My journey so far has equipped me with the skills to create responsive, user-friendly, and dynamic web solutions.</h5>
 
 - 🌱 Currently enhancing my skills in **TypeScript** and **Node.js**
 - 🌍 Based in **New Delhi, Delhi**
