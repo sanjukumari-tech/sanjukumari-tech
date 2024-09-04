@@ -6,13 +6,14 @@
 
 #### 👨‍💻 ABOUT ME:
 <p align="center">
-  I am a Full Stack Web Developer specializing in the MERN stack. I thrive on bringing ideas to life through elegant, user-friendly interfaces and am dedicated to writing clean, efficient, and maintainable code. My expertise extends to collaboration, decision-making, and a strong foundation in Data Structures & Algorithms. 💡
+As a Full Stack Web Developer, I specialize in the MERN stack and am committed to continuous growth and learning. My mission is to build innovative, high-quality applications that not only meet current demands but also anticipate future challenges. 💡
 </p>
+<img src="picture.png"/>//
 <br/>
 
 - 🌱 Currently learning **TypeScript** and **Node.js** 
 - 🌍 Hailing from **New Delhi, Delhi**
-- 🔥 Visit my [**Portfolio**](https://sanjukumari.github.io) for more details
+- 🔥 Visit my [**Portfolio**](https://sanjukumari-portfolio-qyrw.vercel.app/) for more details
 - 📧 You can contact me at [**sanju080598@gmail.com**](mailto:sanju080598@gmail.com)
 - 🚀 My latest project [**Befit**](https://be-1fit.netlify.app/) was selected as a Top Project at Masai School
 
