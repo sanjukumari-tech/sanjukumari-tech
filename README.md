@@ -16,7 +16,7 @@
 
 - 🌱 Currently enhancing my skills in **TypeScript** and **Node.js**
 - 🌍 Based in **New Delhi, Delhi**
-- 🔥 Explore my [**Portfolio**](https://sanjukumari-portfolio-qyrw.vercel.app/) for more details
+- 🔥 Explore my [**Portfolio**](https://sanjukumari-portfolio-xova.vercel.app/) for more details
 - 🚀 My latest project [**Befit**](https://be-1fit.netlify.app/) was selected as a Top Project at Masai School
 - 📧 Feel free to reach out to me at [**sanju080598@gmail.com**](mailto:sanju080598@gmail.com)
 
