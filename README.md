@@ -1,36 +1,55 @@
+<h1 align="center">Hello Developers! I'm Sanju Kumari 😊</h1>
 
-
-
-
-
-<h1 align="center">Hello Developers! I'm Sanju Kumari 😊</h1> 
-<!-- Typing SVG -->
-<!-- <p align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&color=25DDF7&background=B3FFE500&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer+👨🏻‍💻;1500%2B+Hours+of+Coding+Experience+⚡️;700%2B+DSA+Questions+Solved+💡" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&color=25DDF7&background=B3FFE500&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Building+Seamless+Web+Apps" alt="Typing SVG" />
   </a>
-</p> -->
+</p>
+
 <hr>
+
 <img align="right" height="205" alt="Coding" width="350" src="./2778468.jpg" /> 
-<h5 align="justify">An enthusiastic Full Stack Web Developer with a passion for building seamless and efficient web applications. Have a strong foundation in both front-end and back-end technologies, and always eager to learn and adapt to new trends in the tech world. My journey so far has equipped me with the skills to create responsive, user-friendly, and dynamic web solutions.</h5>
+
+<h5 align="justify">An enthusiastic Full Stack Web Developer with a passion for building seamless and efficient web applications. I have a strong foundation in both front-end and back-end technologies, with expertise in the MERN stack. I'm committed to writing clean, scalable code and continuously improving my craft through hands-on projects and learning.</h5>
 
 - 🌱 Currently enhancing my skills in **TypeScript** and **Node.js**
 - 🌍 Based in **New Delhi, Delhi**
 - 🔥 Explore my [**Portfolio**](https://sanjukumari-portfolio-xova.vercel.app/) for more details
-- 🚀 My latest project [**Befit**](https://be-1fit.netlify.app/) was selected as a Top Project at Masai School
-- 📧 Feel free to reach out to me at [**sanju080598@gmail.com**](mailto:sanju080598@gmail.com)
+- 🚀 My project [**Befit**](https://be-1fit.netlify.app/) was selected as a Top Project at Masai School
+- 📧 Reach out to me at [**sanju080598@gmail.com**](mailto:sanju080598@gmail.com)
+- 💼 **Open to opportunities** as a MERN Stack Developer
+
+<hr>
+
+## 📋 Table of Contents
+- [About Me](#about-me)
+- [What I Do](#what-i-do)
+- [Technical Skills](#technical-skills)
+- [Featured Projects](#featured-projects)
+- [GitHub Stats](#github-stats)
+- [Let's Connect](#lets-connect)
+
+<hr>
+
+## 🎯 About Me
+
+I'm a passionate Full Stack Web Developer from New Delhi with a strong commitment to creating user-centric applications. With hands-on experience in React, Node.js, Express, and MongoDB, I specialize in building responsive, scalable web solutions. I'm a fast learner who thrives on tackling new challenges and collaborating with talented teams.
 
 <hr>
 
 ### 🚀 What I Do
-- ✅ Aspiring Full Stack Developer passionate about creating seamless user experiences.
-- ✅ Fast learner, always eager to embrace new challenges and opportunities.
-- ✅ Actively seeking exciting opportunities as a **MERN Stack Developer**.
+
+- ✅ **Full Stack Development**: Build end-to-end web applications with React on the frontend and Node.js/Express on the backend
+- ✅ **Responsive Design**: Create beautiful, responsive interfaces that work seamlessly across all devices
+- ✅ **Fast Learner**: Always eager to embrace new technologies and industry best practices
+- ✅ **Problem Solver**: Debug complex issues and optimize performance for better user experiences
+- ✅ **Actively seeking**: Exciting opportunities as a **MERN Stack Developer** to grow and contribute
 
 <hr>
 
 ### 🛠️ Technical Skills
 
+**Frontend Technologies**
 <p align="center">
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
@@ -38,25 +57,56 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+</p>
+
+**Backend & Database**
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+**Tools & Platforms**
+<p align="center">
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-  <img src="https://img.shields.io/badge/Prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=white" alt="Prettier" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=white" alt="Prettier" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
+
+<hr>
+
+### 📁 Featured Projects
+
+#### 1. **Befit** - Fitness & Wellness Platform 🏋️
+- 🏆 Top Project Selection at Masai School
+- Built a comprehensive fitness platform with React, Node.js, MongoDB, and Redux
+- Features include workout tracking, nutrition plans, and progress monitoring
+- **Live**: [https://be-1fit.netlify.app/](https://be-1fit.netlify.app/)
+- **Tech Stack**: React | Redux | Node.js | MongoDB | Express.js
+
+#### 2. **Portfolio Website** 💼
+- Personal portfolio showcasing projects, skills, and professional journey
+- Responsive design with smooth animations and user-friendly interface
+- **Live**: [https://sanjukumari-portfolio-xova.vercel.app/](https://sanjukumari-portfolio-xova.vercel.app/)
+- **Tech Stack**: React | Vercel | CSS3
+
+#### 3. **E-Commerce Platform** 🛍️
+- Full-stack e-commerce application with product listing, cart, and checkout
+- User authentication, order management, and admin dashboard
+- **Tech Stack**: React | Node.js | Express | MongoDB | Redux
 
 <hr>
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjukumari-tech&count_private=true&theme=light" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sanjukumari-tech&theme=light&hide_border=true&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjukumari-tech&count_private=true&theme=light&show_icons=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sanjukumari-tech&theme=light&hide_border=true&border_radius=6.5" height="150" alt="Streak Stats" />
 </p>
 
 <p align="center">
@@ -65,33 +115,40 @@
 
 <hr>
 
+### 📚 Learning & Development
+
+- 📖 Continuously exploring advanced TypeScript concepts
+- 🔍 Diving deeper into performance optimization techniques
+- 🎓 Mastering full-stack architecture patterns
+- 🚀 Building scalable applications with best practices
+
+<hr>
+
 ### 📬 Let's Connect
+
+I'm always excited to connect and collaborate with fellow developers and teams. Let's innovate together!
 
 <p align="center">
   <a href="https://github.com/sanjukumari-tech" target="_blank">
-    <img src="https://img.icons8.com/nolan/64/github.png" width="32px" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/sanju-kumari-a73149264/" target="_blank">
-    <img src="https://img.icons8.com/nolan/64/linkedin.png" width="32px" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sanju080598@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
 <hr>
 
 <h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Visitor's Count:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{sanjukumari-tech}/count.svg" alt="Visitor's Count" /></p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/sanjukumari-tech/count.svg" alt="Visitor's Count" />
+</p>
 
+<hr>
 
-
-
-
-
-
-
-
-
-
-
-
- I'm excited to connect and collaborate with fellow developers and teams. Let's innovate together!
-
+<p align="center">
+  <strong>⭐ If you found my profile helpful, feel free to star some of my repositories!</strong>
+</p>
