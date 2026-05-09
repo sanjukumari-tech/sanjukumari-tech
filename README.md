@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&color=25DDF7&background=B3FFE500&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Building+Seamless+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&color=25DDF7&background=B3FFE500&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Building+Scalable+Web+Apps" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,7 +10,7 @@
 
 <img align="right" height="205" alt="Coding" width="350" src="./2778468.jpg" /> 
 
-<h5 align="justify">An enthusiastic Full Stack Web Developer with a passion for building seamless and efficient web applications. I have a strong foundation in both front-end and back-end technologies, with expertise in the MERN stack. I'm committed to writing clean, scalable code and continuously improving my craft through hands-on projects and learning.</h5>
+<h5 align="justify">An enthusiastic Full Stack Web Developer with a passion for building seamless and efficient web applications. I have a strong foundation in both front-end and back-end technologies, specializing in the MERN stack (MongoDB, Express, React, Node.js). I'm committed to writing clean, maintainable code and delivering user-centric solutions.</h5>
 
 - 🌱 Currently enhancing my skills in **TypeScript** and **Node.js**
 - 🌍 Based in **New Delhi, Delhi**
@@ -33,7 +33,7 @@
 
 ## 🎯 About Me
 
-I'm a passionate Full Stack Web Developer from New Delhi with a strong commitment to creating user-centric applications. With hands-on experience in React, Node.js, Express, and MongoDB, I specialize in building responsive, scalable web solutions. I'm a fast learner who thrives on tackling new challenges and collaborating with talented teams.
+I'm a passionate Full Stack Web Developer from New Delhi with a strong commitment to creating user-centric applications. With hands-on experience in React, Node.js, Express, and MongoDB, I specialize in building scalable, performant applications. I'm a fast learner, problem solver, and always excited to take on new challenges!
 
 <hr>
 
@@ -57,6 +57,7 @@ I'm a passionate Full Stack Web Developer from New Delhi with a strong commitmen
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
 **Backend & Database**
@@ -105,12 +106,12 @@ I'm a passionate Full Stack Web Developer from New Delhi with a strong commitmen
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjukumari-tech&count_private=true&theme=light&show_icons=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sanjukumari-tech&theme=light&hide_border=true&border_radius=6.5" height="150" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjukumari-tech&count_private=true&theme=light&show_icons=true&cache_seconds=3600" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sanjukumari-tech&theme=light&hide_border=true&border_radius=6.5&cache_seconds=3600" height="150" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjukumari-tech&layout=compact&theme=light&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjukumari-tech&layout=compact&theme=light&hide_border=true&cache_seconds=3600" alt="Top Languages" />
 </p>
 
 <hr>
