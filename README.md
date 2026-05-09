@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&color=25DDF7&background=B3FFE500&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Building+Scalable+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&color=25DDF7&background=B3FFE500&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Problem+Solver;Passionate+Coder" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,11 +10,11 @@
 
 <img align="right" height="205" alt="Coding" width="350" src="./2778468.jpg" /> 
 
-<h5 align="justify">An enthusiastic Full Stack Web Developer with a passion for building seamless and efficient web applications. I have a strong foundation in both front-end and back-end technologies, specializing in the MERN stack (MongoDB, Express, React, Node.js). I'm committed to writing clean, maintainable code and delivering user-centric solutions.</h5>
+<h5 align="justify">An enthusiastic Full Stack Web Developer with a passion for building seamless and efficient web applications. I have a strong foundation in both front-end and back-end technologies, and I'm committed to delivering high-quality, scalable solutions.</h5>
 
 - 🌱 Currently enhancing my skills in **TypeScript** and **Node.js**
 - 🌍 Based in **New Delhi, Delhi**
-- 🔥 Explore my [**Portfolio**](https://sanjukumari-portfolio-xova.vercel.app/) for more details
+- 🔥 Explore my [**Portfolio**](https://sanjukumari.vercel.app/) for more details
 - 🚀 My project [**Befit**](https://be-1fit.netlify.app/) was selected as a Top Project at Masai School
 - 📧 Reach out to me at [**sanju080598@gmail.com**](mailto:sanju080598@gmail.com)
 - 💼 **Open to opportunities** as a MERN Stack Developer
@@ -33,7 +33,7 @@
 
 ## 🎯 About Me
 
-I'm a passionate Full Stack Web Developer from New Delhi with a strong commitment to creating user-centric applications. With hands-on experience in React, Node.js, Express, and MongoDB, I specialize in building scalable, performant applications. I'm a fast learner, problem solver, and always excited to take on new challenges!
+I'm a passionate Full Stack Web Developer from New Delhi with a strong commitment to creating user-centric applications. With hands-on experience in React, Node.js, Express, and MongoDB, I specialize in building robust web solutions that combine aesthetic design with powerful functionality.
 
 <hr>
 
@@ -93,7 +93,7 @@ I'm a passionate Full Stack Web Developer from New Delhi with a strong commitmen
 #### 2. **Portfolio Website** 💼
 - Personal portfolio showcasing projects, skills, and professional journey
 - Responsive design with smooth animations and user-friendly interface
-- **Live**: [https://sanjukumari-portfolio-xova.vercel.app/](https://sanjukumari-portfolio-xova.vercel.app/)
+- **Live**: [https://sanjukumari.vercel.app/](https://sanjukumari.vercel.app/)
 - **Tech Stack**: React | Vercel | CSS3
 
 #### 3. **E-Commerce Platform** 🛍️
