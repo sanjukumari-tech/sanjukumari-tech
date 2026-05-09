@@ -106,12 +106,14 @@ I'm a passionate Full Stack Web Developer from New Delhi with a strong commitmen
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjukumari-tech&count_private=true&theme=light&show_icons=true&cache_seconds=3600" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sanjukumari-tech&theme=light&hide_border=true&border_radius=6.5&cache_seconds=3600" height="150" alt="Streak Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanjukumari-tech&count_private=true&theme=light&show_icons=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=sanjukumari-tech&theme=light" alt="Streak Stats" />
 </p>
 
+<br>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjukumari-tech&layout=compact&theme=light&hide_border=true&cache_seconds=3600" alt="Top Languages" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjukumari-tech&layout=compact&theme=light" alt="Top Languages" />
 </p>
 
 <hr>
@@ -143,9 +145,9 @@ I'm always excited to connect and collaborate with fellow developers and teams. 
 
 <hr>
 
-<h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Visitor's Count:</h4>
+<h4 align="center">👋 Visitor's Count:</h4>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/sanjukumari-tech/count.svg" alt="Visitor's Count" />
+  <img src="https://api.countapi.xyz/hit/sanjukumari-tech/visits?color=blue" alt="Visitor's Count" />
 </p>
 
 <hr>
