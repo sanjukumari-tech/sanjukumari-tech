@@ -96,10 +96,12 @@ I'm a passionate Full Stack Web Developer from New Delhi with a strong commitmen
 - **Live**: [https://sanjukumari.vercel.app/](https://sanjukumari.vercel.app/)
 - **Tech Stack**: React | Vercel | CSS3
 
-#### 3. **E-Commerce Platform** 🛍️
-- Full-stack e-commerce application with product listing, cart, and checkout
-- User authentication, order management, and admin dashboard
-- **Tech Stack**: React | Node.js | Express | MongoDB | Redux
+#### 3. **Task Manager** 📋
+- Dynamic Boards: Create and manage multiple boards for different projects or routines
+- Kanban Workflow: Organize tasks into customizable columns (e.g., Morning, Afternoon, Evening)
+- Task Management: Add, view, edit, and delete tasks with ease
+- **Live**: [https://task-manager-app-sandy-seven.vercel.app/](https://task-manager-app-sandy-seven.vercel.app/)
+- **Tech Stack**: React | CSS3 | Vercel
 
 <hr>
 
